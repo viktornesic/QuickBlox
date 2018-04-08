@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-core/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-core/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-core/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-core/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from build type: debug -->
+    <string name="versionName" translatable="false">QuickBlox WebRTC
+Build version 2.0.0</string>
+
+</resources>

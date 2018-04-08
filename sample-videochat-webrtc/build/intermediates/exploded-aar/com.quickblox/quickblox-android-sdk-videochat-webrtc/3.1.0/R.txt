@@ -1,0 +1,9 @@
+int attr mainCoords 0x7f010002
+int attr mainMirror 0x7f010000
+int attr secondCoords 0x7f010003
+int attr secondMirror 0x7f010001
+int[] styleable RTCGlView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 }
+int styleable RTCGlView_mainCoords 2
+int styleable RTCGlView_mainMirror 0
+int styleable RTCGlView_secondCoords 3
+int styleable RTCGlView_secondMirror 1

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/res/merged/dev/debug/xml/pulltorefresh.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.navercorp.pulltorefresh/library/3.2.3/res/xml/pulltorefresh.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/res/merged/dev/debug/xml/preferences.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/src/main/res/xml/preferences.xml"
+    }
+]

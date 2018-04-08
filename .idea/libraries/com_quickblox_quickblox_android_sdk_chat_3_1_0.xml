@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="com.quickblox:quickblox-android-sdk-chat-3.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-core-4.1.9-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-tcp-4.1.9-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-experimental-4.1.9-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-resolver-minidns-4.1.9-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-android-4.1.9-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-im-4.1.9-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-extensions-4.1.9-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-sasl-provided-4.1.9-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

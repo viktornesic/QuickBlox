@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"นำทางขึ้น"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"เสร็จสิ้น"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ปิด"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"เปิด"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ล้างข้อความค้นหา"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ข้อความค้นหา"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ส่งข้อความค้นหา"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"แชร์กับ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ต้องใช้บริการ Google Play อย่างน้อย 1 บริการ ซึ่งไม่พร้อมใช้งานในปัจจุบัน โปรดติดต่อนักพัฒนาซอฟต์แวร์เพื่อขอความช่วยเหลือ"</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"เปิดใช้บริการ Google Play"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play"</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"เปิดใช้บริการ Google Play"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"ติดตั้งบริการ Google Play"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในโทรศัพท์ของคุณ"</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในแท็บเล็ตของคุณ"</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"ติดตั้งบริการ Google Play"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"บัญชีที่ระบุไม่มีอยู่บนอุปกรณ์นี้ โปรดเลือกบัญชีอื่น"</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"บัญชีไม่ถูกต้อง"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"ต้องมีการเชื่อมต่อข้อมูลเพื่อเชื่อมต่อกับบริการ Google Play"</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"ข้อผิดพลาดของเครือข่าย"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"ข้อผิดพลาดของบริการ Google Play"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"ไม่สนับสนุนการเข้าถึงบัญชีจากโปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"โปรไฟล์ที่ถูกจำกัด"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"เกิดข้อผิดพลาดในการลงชื่อเข้าใช้บัญชีที่ระบุ โปรดเลือกบัญชีอื่น"</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"การลงชื่อเข้าใช้ล้มเหลว"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> มีปัญหาเกี่ยวกับบริการของ Google Play หากยังคงมีปัญหาอยู่ โปรดติดต่อนักพัฒนาซอฟต์แวร์เพื่อขอความช่วยเหลือ"</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ต้องอาศัยบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่รองรับ โปรดติดต่อผู้ผลิตเพื่อขอความช่วยเหลือ"</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"บริการ Google Play"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"อัปเดต"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play"</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"อัปเดตบริการ Google Play"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้"</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"กำลังอัปเดตบริการ Google Play"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า"</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"เปิดบนโทรศัพท์"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"ลงชื่อเข้าใช้"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"ลงชื่อเข้าใช้ด้วย Google"</string>
+    <string name="dgts__confirmation_code">รหัสยืนยัน</string>
+    <string name="dgts__confirmation_edit_hint">กรอกรหัสยืนยัน</string>
+    <string name="dgts__confirmation_error">ไม่สามารถยืนยันหมายเลขโทรศัพท์ของคุณได้</string>
+    <string name="dgts__confirmation_error_alternative">ขออภัย เรามีปัญหาในการส่งรหัสยืนยันไปหาคุณ</string>
+    <string name="dgts__confirmation_expired">รหัสนี้หมดอายุแล้ว กรุณากดส่งรหัสยืนยันใหม่อีกครั้ง</string>
+    <string name="dgts__digits_logo_desc">ไอคอนโลโก้ Digits</string>
+    <string name="dgts__digits_logo_name_desc">ชื่อโลโก้ Digits</string>
+    <string name="dgts__dismiss">ไม่สนใจ</string>
+    <string name="dgts__find_your_friends">ค้นหาเพื่อนของคุณ</string>
+    <string name="dgts__image_header_description">ภาพส่วนหัวสำหรับการเข้าสู่ระบบ</string>
+    <string name="dgts__login_digits_text">ใช้หมายเลขโทรศัพท์ของฉัน</string>
+    <string name="dgts__network_error">กรุณาตรวจสอบการเชื่อมต่อของคุณแล้วลองอีกครั้ง</string>
+    <string name="dgts__not_now">ไม่ใช่ตอนนี้</string>
+    <string name="dgts__okay">โอเค</string>
+    <string name="dgts__phone_number_edit_hint">หมายเลขของคุณ</string>
+    <string name="dgts__phone_number_text">กรอกหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="dgts__pin_code_verification_title">ป้อนรหัสยืนยัน 2 ชั้น</string>
+    <string name="dgts__resend_confirmation_text">ส่งรหัสยืนยันอีกครั้ง</string>
+    <string name="dgts__success_desc">ไอคอนความสำเร็จ</string>
+    <string name="dgts__terms_text">เมื่อแตะ %1$sส่งรหัสยืนยัน%1$s ด้านบน Digits by Twitter จะส่งข้อความ SMS ไปหาคุณเพื่อยืนยันหมายเลขโทรศัพท์ ซึ่งอาจมีการเก็บค่าบริการข้อความและข้อมูล</string>
+    <string name="dgts__terms_text_create">เมื่อแตะ %1$sสร้างบัญชี%1$s ด้านบน จะถือว่าคุณยอมรับข้อตกลงการใช้งาน นโยบายความเป็นส่วนตัว และนโยบายคุกกี้ของ Digits by Twitter และผู้ใช้อื่นๆของแอพนี้จะสามารถหาคุณได้จากหมายเลขโทรศัพท์และ/หรืออีเมล</string>
+    <string name="dgts__terms_text_sign_in">เมื่อแตะ %1$sลงชื่อเข้าใช้%1$s ด้านบนจะถือว่าคุณยอมรับข้อตกลงการใช้งาน นโยบายความเป็นส่วนตัว และนโยบายคุกกี้ของ Digits by Twitter และผู้ใช้อื่นของ %1$s สามารถหาคุณได้จากหมายเลขโทรศัพท์และ/หรืออีเมลของคุณ</string>
+    <string name="dgts__try_again">ลองใหม่</string>
+    <string name="dgts__try_again_confirmation">กรุณาตรวจสอบรหัสของคุณแล้วลองอีกครั้ง</string>
+    <string name="dgts__try_again_phone_number">กรุณาตรวจสอบหมายเลขของคุณแล้วลองอีกครั้ง</string>
+    <string name="dgts__try_another_phone">ลองใช้หมายเลขโทรศัพท์อื่น</string>
+    <string name="dgts__upload_contacts">เราใช้ Digits by Twitter เพื่อค้นหาเพื่อนของคุณที่ใช้งานแอพนี้ เมื่อคุณแตะ ตกลง เราจะอัพโหลดสมุดที่อยู่ของคุณไปที่ Digits by Twitter ดังนั้นเราสามารถหาผู้ใช้ของ %1$s ที่คุณรู้จักหรือช่วยผู้ใช้อื่นๆของ %1$s ค้นหาคุณ</string>
+    <string name="dgts__verification_code">รหัสยืนยัน</string>
+    <string name="dgts_pin_code_terms">คุณได้ตั้งรหัสยืนยัน 2 ชั้นไว้ก่อนหน้านี้บน digits.com</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tw__allow_btn_txt">อนุญาต</string>
+    <string name="tw__login_btn_txt">เข้าสู่ระบบด้วยทวิตเตอร์</string>
+    <string name="tw__not_now_btn_txt">ไม่ใช่ตอนนี้</string>
+    <string name="tw__share_email_desc">รับการอัพเดทและข้อมูลอื่นๆ ได้จาก %1$s เมื่อคุณให้สิทธิ์ในการเข้าถึงอีเมลของคุณบนบัญชีทวิตเตอร์ \@%2$s</string>
+    <string name="tw__share_email_title">แชร์ที่อยู่อีเมลของคุณ</string>
+</resources>

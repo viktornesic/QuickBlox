@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quickblox-android-sdk-master.iml" filepath="$PROJECT_DIR$/quickblox-android-sdk-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-chat/sample-chat.iml" filepath="$PROJECT_DIR$/sample-chat/sample-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-content/sample-content.iml" filepath="$PROJECT_DIR$/sample-content/sample-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-core/sample-core.iml" filepath="$PROJECT_DIR$/sample-core/sample-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-custom-objects/sample-custom-objects.iml" filepath="$PROJECT_DIR$/sample-custom-objects/sample-custom-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-location/sample-location.iml" filepath="$PROJECT_DIR$/sample-location/sample-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-pushnotifications/sample-pushnotifications.iml" filepath="$PROJECT_DIR$/sample-pushnotifications/sample-pushnotifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-users/sample-users.iml" filepath="$PROJECT_DIR$/sample-users/sample-users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-videochat-webrtc/sample-videochat-webrtc.iml" filepath="$PROJECT_DIR$/sample-videochat-webrtc/sample-videochat-webrtc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snippets/snippets.iml" filepath="$PROJECT_DIR$/snippets/snippets.iml" />
+    </modules>
+  </component>
+</project>

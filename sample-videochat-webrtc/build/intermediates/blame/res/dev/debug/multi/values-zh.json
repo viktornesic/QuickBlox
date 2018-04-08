@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/incremental/mergeDevDebugResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.navercorp.pulltorefresh/library/3.2.3/res/values-zh/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 60,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 66,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.navercorp.pulltorefresh/library/3.2.3/res/values-zh/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 66,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 64,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.navercorp.pulltorefresh/library/3.2.3/res/values-zh/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 64,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    }
+]

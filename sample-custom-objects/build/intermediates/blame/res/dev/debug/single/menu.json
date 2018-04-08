@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-custom-objects/build/intermediates/res/merged/dev/debug/menu/activity_add_movie.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-custom-objects/src/main/res/menu/activity_add_movie.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-custom-objects/build/intermediates/res/merged/dev/debug/menu/activity_movies_list.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-custom-objects/src/main/res/menu/activity_movies_list.xml"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "outputFile": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 60,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 51,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 51,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 57,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 57,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 58,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 58,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 54,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 465,
+                        "endColumn": 54,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endLine": 11,
+                    "endColumn": 13,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 507
+                    }
+                }
+            }
+        ]
+    }
+]

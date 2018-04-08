@@ -1,0 +1,4 @@
+#Sat Apr 07 18:46:39 PDT 2018
+base.0=/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/transforms/dex/dev/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/transforms/dex/dev/debug/folders/1000/1f/main/classes.dex

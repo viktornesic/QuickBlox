@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.navercorp.pulltorefresh:library-3.2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample-videochat-webrtc/build/intermediates/exploded-aar/com.navercorp.pulltorefresh/library/3.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/sample-videochat-webrtc/build/intermediates/exploded-aar/com.navercorp.pulltorefresh/library/3.2.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.navercorp.pulltorefresh/library/3.2.3/5cded472dce10bf66f0d9b4f0641d49b29800385/library-3.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

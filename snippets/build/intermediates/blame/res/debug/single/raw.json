@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/sample_file.txt",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/src/main/res/raw/sample_file.txt"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/image.png",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-content/3.1.0/res/raw/image.png"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/sample_file2.txt",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/src/main/res/raw/sample_file2.txt"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/xmlresponse.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-content/3.1.0/res/raw/xmlresponse.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/amazaonerror.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-content/3.1.0/res/raw/amazaonerror.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/servers.json",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/src/main/res/raw/servers.json"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/file.txt",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-content/3.1.0/res/raw/file.txt"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/kharkov.jpg",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/src/main/res/raw/kharkov.jpg"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/res/merged/debug/raw/tw__cacerts",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/raw/tw__cacerts"
+    }
+]

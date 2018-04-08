@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」需要用到一或多項 Google Play 服務，但目前無法存取相關服務。請與開發人員聯絡以尋求協助。"</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"啟用 Google Play 服務"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"您必須啟用 Google Play 服務，才能執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"啟用 Google Play 服務"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"取得 Google Play 服務"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"您的手機並未安裝 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"您的平板電腦並未安裝 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"取得 Google Play 服務"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"這個裝置上沒有您所指定的帳戶，請選擇其他帳戶。"</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"帳戶無效"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"需要數據連線才能連上 Google Play 服務。"</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"網路錯誤"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Google Play 服務錯誤"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"不支援透過設有限制的個人資料存取帳戶。"</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"設有限制的個人資料"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"登入指定帳戶時發生錯誤，請選擇其他帳戶。"</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"登入失敗"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」無法存取 Google Play 服務。如果問題無法解決，請與開發人員聯絡，向對方尋求協助。"</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」需要搭配 Google Play 服務才能運作，但您的裝置並不支援相關服務。請與您的裝置製造商聯絡以尋求協助。"</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play 服務"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"您必須更新 Google Play 服務，才能執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"更新 Google Play 服務"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」所需的 Google Play 服務正在更新。"</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Google Play 服務更新中"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"必須使用新版 Google Play 服務。該服務稍後就會自動更新。"</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"在手機上開啟"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"登入"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"使用 Google 帳戶登入"</string>
+    <string name="dgts__confirmation_code">確認碼</string>
+    <string name="dgts__confirmation_edit_hint">輸入確認碼</string>
+    <string name="dgts__confirmation_error">無法確認你的電話號碼</string>
+    <string name="dgts__confirmation_error_alternative">抱歉，傳送你的確認碼時發生錯誤。</string>
+    <string name="dgts__confirmation_expired">代碼已經失效。請重新傳送確認碼。</string>
+    <string name="dgts__digits_logo_desc">digits 標誌圖示</string>
+    <string name="dgts__digits_logo_name_desc">digits 標誌名稱</string>
+    <string name="dgts__dismiss">捨棄</string>
+    <string name="dgts__find_your_friends">尋找你的朋友</string>
+    <string name="dgts__image_header_description">登入的影像標題</string>
+    <string name="dgts__login_digits_text">使用我的電話號碼</string>
+    <string name="dgts__network_error">請檢查網路，然後再試一次。</string>
+    <string name="dgts__not_now">現在不用</string>
+    <string name="dgts__okay">好的</string>
+    <string name="dgts__phone_number_edit_hint">你的號碼</string>
+    <string name="dgts__phone_number_text">輸入你的電話號碼</string>
+    <string name="dgts__pin_code_verification_title">輸入 2 步驟認證碼</string>
+    <string name="dgts__resend_confirmation_text">重新傳送確認碼</string>
+    <string name="dgts__success_desc">成功圖示</string>
+    <string name="dgts__terms_text">如果點選上方的%1$s傳送確認碼%1$s，Digits by Twitter 就會發送簡訊給你，以確認你的電話號碼。可能需支付訊息和數據費用。</string>
+    <string name="dgts__terms_text_create">如果點選上方的%1$s建立帳戶%1$s，即表示你同意 Digits by Twitter 的「服務條款」、「隱私政策」和「Cookie 使用政策」，同時此應用程式的其他使用者將可以透過電話號碼和/或電子郵件地址找到你。</string>
+    <string name="dgts__terms_text_sign_in">如果點選上方的%1$s登入%1$s，即表示你同意 Digits by Twitter 的更新「服務條款」、「隱私政策」和「Cookie 使用政策」，同時 %1$s 的其他使用者將可以透過電話號碼和/或電子郵件地址搜尋到你。</string>
+    <string name="dgts__try_again">再試一次</string>
+    <string name="dgts__try_again_confirmation">請檢查你的代碼，然後再試一次。</string>
+    <string name="dgts__try_again_phone_number">請檢查你的號碼，然後再試一次。</string>
+    <string name="dgts__try_another_phone">請試試不同的電話號碼</string>
+    <string name="dgts__upload_contacts">我們會使用 Digits by Twitter 為你尋找更多在使用此應用程式的朋友。當你點選「確定」時，我們就會將你的通訊錄上傳到 Digits by Twitter，以便協助你尋找你認識的 %1$s 的使用者，或協助其他 %1$s 的使用者找到你。</string>
+    <string name="dgts__verification_code">認證碼</string>
+    <string name="dgts_pin_code_terms">你先前已在 digits.com 上設定 2 步驟認證碼</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tw__allow_btn_txt">允許</string>
+    <string name="tw__login_btn_txt">使用 Twitter 登入</string>
+    <string name="tw__not_now_btn_txt">現在不要</string>
+    <string name="tw__share_email_desc">當你允許 %1$s 存取你的 Twitter 帳戶上的電子郵件時，就可以取得來自他們的最新消息和其他資訊 \@%2$s</string>
+    <string name="tw__share_email_title">分享你的電子郵件地址</string>
+</resources>

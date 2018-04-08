@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-users/build/intermediates/res/merged/dev/debug/menu/activity_users_list.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-users/src/main/res/menu/activity_users_list.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-users/build/intermediates/res/merged/dev/debug/menu/activity_sign_in_up.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-users/src/main/res/menu/activity_sign_in_up.xml"
+    }
+]

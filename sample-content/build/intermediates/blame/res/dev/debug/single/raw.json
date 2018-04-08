@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-content/build/intermediates/res/merged/dev/debug/raw/file.txt",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-content/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-content/3.1.0/res/raw/file.txt"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-content/build/intermediates/res/merged/dev/debug/raw/image.png",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-content/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-content/3.1.0/res/raw/image.png"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-content/build/intermediates/res/merged/dev/debug/raw/xmlresponse.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-content/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-content/3.1.0/res/raw/xmlresponse.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-content/build/intermediates/res/merged/dev/debug/raw/amazaonerror.xml",
+        "source": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-content/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-content/3.1.0/res/raw/amazaonerror.xml"
+    }
+]

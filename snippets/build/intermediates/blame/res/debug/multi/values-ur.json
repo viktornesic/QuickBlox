@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 62,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 77,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 77,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 89,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 89,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 127,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 127,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 122,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 122,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 53,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 53,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 74,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 74,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 78,
+                    "endOffset": 740
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endColumn": 78,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 745,
+                    "endColumn": 110,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 110,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 51,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 51,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 46,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 46,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 67,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1127,
+                        "endColumn": 67,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 75,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 75,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 83,
+                    "endOffset": 1178
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 83,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1183,
+                    "endColumn": 60,
+                    "endOffset": 1239
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 60,
+                        "endOffset": 1411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1244,
+                    "endColumn": 115,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1416,
+                        "endColumn": 115,
+                        "endOffset": 1527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 116,
+                    "endOffset": 1472
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1532,
+                        "endColumn": 116,
+                        "endOffset": 1644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1477,
+                    "endColumn": 78,
+                    "endOffset": 1551
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1649,
+                        "endColumn": 78,
+                        "endOffset": 1723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1556,
+                    "endColumn": 55,
+                    "endOffset": 1607
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 55,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1612,
+                    "endColumn": 66,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 66,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endColumn": 57,
+                    "endOffset": 1732
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 57,
+                        "endOffset": 410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1737,
+                    "endColumn": 171,
+                    "endOffset": 1904
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 171,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1909,
+                    "endColumn": 78,
+                    "endOffset": 1983
+                },
+                "from": {
+                    "file": "/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res/values-ur/values-ur.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 78,
+                        "endOffset": 661
+                    }
+                }
+            }
+        ]
+    }
+]

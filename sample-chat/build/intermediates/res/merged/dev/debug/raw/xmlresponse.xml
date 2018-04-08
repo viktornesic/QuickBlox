@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Location>http://qbprod.s3.amazonaws.com/59fe04e49a2f45fa99b055bbbf614a6200</Location>
+    <Bucket>qbprod</Bucket>
+    <Key>59fe04e49a2f45fa99b055bbbf614a6200</Key>
+    <ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag></Response>

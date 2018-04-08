@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.quickblox.videochat.webrtc" > <!-- You should set 'versionCode' and 'versionName' in QBSettings class. -->
+    <!-- It's library project. It doesn't need any manifest settings. -->
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+</manifest>

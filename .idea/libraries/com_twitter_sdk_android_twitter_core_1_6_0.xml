@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.twitter.sdk.android:twitter-core-1.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/snippets/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

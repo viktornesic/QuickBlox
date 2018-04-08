@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonError>
+    <Code>RequestTimeout</Code>
+    <Message>Your socket connection to the server was not read from or written to within the timeout
+        period.
+        Idle connections will be closed.
+    </Message>
+    <RequestId>6A4FD2F5E99AC852</RequestId>
+    <HostId>XzEsV7hu3IS8QAH/bkZ0IODbBU2dWROzTn86RHyeeUihhbuEptQonMSci3aj2h+k</HostId>
+</AmazonError>

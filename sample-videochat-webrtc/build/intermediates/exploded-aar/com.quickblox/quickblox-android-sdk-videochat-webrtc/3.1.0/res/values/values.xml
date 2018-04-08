@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RTCGlView"><attr format="boolean" name="mainMirror"/><attr format="boolean" name="secondMirror"/><attr format="reference" name="mainCoords"/><attr format="reference" name="secondCoords"/></declare-styleable>
+</resources>

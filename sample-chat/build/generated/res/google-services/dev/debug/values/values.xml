@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">761750217637</string>
+    <string name="google_app_id" translatable="false">1:761750217637:android:d150eafea3b1427e</string>
+</resources>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.quickblox:quickblox-android-sdk-extensions-3.1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/sample-custom-objects/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-extensions/3.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/sample-custom-objects/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-extensions/3.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

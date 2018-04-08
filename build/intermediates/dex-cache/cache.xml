@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-experimental-4.1.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7acb755030c281eb1dafdf1ed68984bc86cd09a6">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/smack-experimental-4.1.9-SNAPSHOT_07c754286fa161029ebc3ae42eaeebd18d5e0f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-core/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="10ddbeb60ac2e6573bab66e76416311bf046aec5">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.quickblox-quickblox-android-sdk-core-3.1.0_3c8cb6c05acbbdb7874275785296807de45bf893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.google.android.gms-play-services-base-8.4.0_78741b8eebff8e19e3a4c97c4f20b34ee4b20f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.navercorp.pulltorefresh/library/3.2.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c4cd25e87bb7fa8fa1b4948505cd69a70a8b3e1">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.navercorp.pulltorefresh-library-3.2.3_97a5b19b53259b293d7e4eab8b5e7b65fdb91764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-messages/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6f901b4187cbf1cd2e4f94b027d4b62d6851205a">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.quickblox-quickblox-android-sdk-messages-3.1.0_4e4a953b7da26fa8623d8f07f38b22c56a6e6dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.3/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/gson-2.3_794c5c112a09eff6a4f6cf7a17eda19021d44b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.4.2/4aa590f2a44d49444dcd3bb082017bf0b46f2ff7/jxmpp-util-cache-0.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/jxmpp-util-cache-0.4.2_52a83a4b6af2c128398ae874b038e8c709391f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-sasl-provided-4.1.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="17312e74f6eb98d5156a93402c1a80b671f3f9df">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/smack-sasl-provided-4.1.9-SNAPSHOT_15fb06c145adad3a3a7e49b2ef4700d9dab4d27f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.github.johnkil.android-robototextview/robototextview/2.4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e1829075f121125e51fe052b94e3998c9b9aac28">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.github.johnkil.android-robototextview-robototextview-2.4.3_d4b94118381861324ded1fb14db0b91914d33529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.4.2/a4c8ce09be6ec90479be74290e381de4288c9569/jxmpp-core-0.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/jxmpp-core-0.4.2_920e0b46a261bdb194df75e735c69fc32a698f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/support-annotations-23.2.1_30cef74c96cc2e23941c702fc83e8ccd31bed46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-extensions-4.1.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="423e99b753130399f0172efd01c30dfe53ba2db2">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/smack-extensions-4.1.9-SNAPSHOT_d192e404496a0d88e05d9dc0baebb524baaaaa59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-resolver-minidns-4.1.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="af3d1fec9b2b84f59e62c21ae5fa96480344064b">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/smack-resolver-minidns-4.1.9-SNAPSHOT_f75079d66c54d2ca131cd23c5e0560e21050aae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-videochat-webrtc/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a533e44f6fbfcc98d6a2cb1ee5cfbd665f89daa9">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.quickblox-quickblox-android-sdk-videochat-webrtc-3.1.0_31b59c9a45fb7a4c876389756ca23a4b1a2653cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-videochat-webrtc/3.1.0/jars/libs/libjingle_peerconnection.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="73800d34fb71dc03b92cc9b09250d59a79e6de41">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/libjingle_peerconnection_cbc930511c172d4c4b677bdf4a9957b797b3988b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.android.support-cardview-v7-23.4.0_6f8e3e71e6bab4072dd632ccb168ef11639773b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0a4af6a85230b990eb8690b696d2db9247338611">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/io.fabric.sdk.android-fabric-1.2.0_a0c3e61db11a209d35972d1a97946c6183f95c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-tcp-4.1.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5786e489d38fdf67fd566dd9de491243256bb80">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/smack-tcp-4.1.9-SNAPSHOT_1dada37a18c852fed13a15c13280fa68eb0be469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-core-4.1.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="905506a86069b45a3a02165e2f3bc39262a0f167">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/smack-core-4.1.9-SNAPSHOT_b65bec53cdb914baf8684273b6cc418911db08c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.google.android.gms-play-services-measurement-8.4.0_42639ea8f6898bbe816b3c5fff993ae180af2676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.android.support-appcompat-v7-23.1.1_bd04cd22177153ec591ead054dc6fbae13309b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-im-4.1.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="60e6ef4a588ca40b589456aad54cdcd0e3a788ae">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/smack-im-4.1.9-SNAPSHOT_059a66f5865d7fcc7e689b2c1f6339aedb529d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.google.android.gms-play-services-gcm-8.4.0_3d1672b3722450bfc3733d5860b2cef3719c1ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.google.android.gms-play-services-basement-8.4.0_d59555ea2f239fc27919ceaf99c844fb7e2d2a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0d6546c1c73cb64a6907f694e6c4bf4b50fefa70">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.crashlytics.sdk.android-beta-1.1.2_bd3d37cc7e2088955b54fec2390c1757e90459c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6f7f66607f1184ca9d1a225bac13b9df7c83753e">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.quickblox-quickblox-android-sdk-chat-3.1.0_de64a7e91d068921f88eb0cd2642c410dccb8339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/internal_impl-23.2.1_3d73c86debdd852d88830a4bb6e6d6ae8bd4d68f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1014d409d1af641616ca7a2b3fda549cf559d605">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.crashlytics.sdk.android-crashlytics-2.2.2_a5abcd76bc769118fd537bd771dbb51f4847a99b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/quickblox-android-sdk-master/sample-core/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="087daafc51b5309d301dbfc2b4da72f9da900f2e">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/quickblox-android-sdk-master-sample-core-unspecified_793a6e685ae76b75f7a3f022cd06b96643747178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/de.measite.minidns/minidns/0.1.7/993582d1455b93a5723d2af4b39d8679735b3550/minidns-0.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/minidns-0.1.7_05a0620a49bff6739b50c0a9c09487a869b3f529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.android.support-design-23.1.1_ea61e43d25b966911dfc61049d938e8bc94058e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.android.support-recyclerview-v7-23.2.1_2736b3441c7486af1251e4d7711aa77254c29969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.android.support-support-v4-23.2.1_c600f998c923fabae50d9e1e0e6bf924f3387f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="158555fbeff80e5a85464a818eadda8a448a1051">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/com.crashlytics.sdk.android-answers-1.1.2_7c22041c903d00346982803144f4839fbb83bf0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/exploded-aar/com.quickblox/quickblox-android-sdk-chat/3.1.0/jars/libs/smack-android-4.1.9-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="af76e1c7d1fff37448cdc490aa03cd91826b3174">
+        <dex dex="/Volumes/WORK/2017-working/Project/iOS Projects/MessagingApp/Ulysses/ChatSauce/Android/QuickBlox/quickblox-android-sdk-master/sample-videochat-webrtc/build/intermediates/pre-dexed/dev/debug/smack-android-4.1.9-SNAPSHOT_b7d9aa1d14b7d1c32066de16e9482bbd6670aba0.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+                 
+                        
+                                                                    
+           
+
+    <LinearLayout style="@style/MovieListStyle" android:tag="layout/list_item_movie_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/text_title"
+            style="@style/TextPrimaryStyle"
+            android:singleLine="true"
+            android:tag="binding_1"      />
+
+        <TextView
+            android:id="@+id/text_description"
+            style="@style/TextSecondaryStyle"
+            android:singleLine="true"
+            android:tag="binding_2"             />
+
+    </LinearLayout>
+
+         

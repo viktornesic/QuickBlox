@@ -1,0 +1,4 @@
+int raw amazaonerror 0x7f020000
+int raw file 0x7f020001
+int raw image 0x7f020002
+int raw xmlresponse 0x7f020003
